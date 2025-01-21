@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Rohanubendra and rahul is my uyir
+- 👋 Hi, I’m @Rohanubendra
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...about rahul
+- 🌱 I’m currently learning ...about
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach na oru lusu
-
+- 📫 How to reach ...
 <!---
 Rohanubendra/Rohanubendra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
